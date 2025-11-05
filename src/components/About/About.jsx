@@ -43,7 +43,7 @@ const About = () => {
                 I am a full-stack developer with 6 Months experience for inter in Meander Software Private Limited in building scalable web application. Skilled in both front-end and back-end development , I specialize in the MERN stack.
               </p>
               {/* Resume Button */}
-              <a href="https://drive.google.com/file/d/1qWllwUrq6d3_K8-DQpc5Nxt9AWBkHKjV/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1xHoHbR6MBeFwf7YhgKtToSYll9mEXVaZ/view?usp=sharing"
               target='_blank'
               rel='noopener noreferrer'
               className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
